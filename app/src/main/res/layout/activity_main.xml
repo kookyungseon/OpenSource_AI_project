@@ -7,6 +7,12 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="#1F34BC"
+        android:textSize="20sp"
+        android:text="2020021007 구경선"/>
 
     <android.widget.Button
         android:id="@+id/button1"
